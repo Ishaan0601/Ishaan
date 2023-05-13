@@ -7,7 +7,7 @@ Computer Science Student at UTD
 Incoming Freshman at the University of Texas at Dallas. Hoping to cultivate my knowledge of programming languages and discover new real world applications of Computer Science within society!
 
 * 🌍  I'm based in Dallas
-* 🧠  I'm learning Python and Java
+* 🧠  I'm learning Python and JavaScript
 
 ### Skills
 
