@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student at UT
 -------------------------------
 
-Sophmore at the University of Texas at Austin. Hoping to cultivate my knowledge of programming languages and discover new real world applications of Computer Science within society!
+Sophomore at the University of Texas at Austin. Hoping to cultivate my knowledge of programming languages and discover new real world applications of Computer Science within society!
 
 * 🌍  I'm based in Dallas
 * 🧠  I'm learning Python and JavaScript
